@@ -17,7 +17,8 @@ from ejercicio01 import calcular_propina
 
 class TestCalcularPropina:
     """
-    Clase que agrupa todos los tests para la función calcular_propina.
+    Clase que agrupa todos los tests para lelse:
+        calidad = Falsea función calcular_propina.
     """
     
     def test_servicio_excelente_importe_50(self):
