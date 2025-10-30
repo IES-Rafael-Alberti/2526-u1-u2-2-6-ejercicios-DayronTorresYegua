@@ -12,7 +12,7 @@ Fecha: 2025-10-25
 """
 
 import pytest
-from src.ejercicio01 import calcular_propina
+from ejercicio01 import calcular_propina
 
 
 class TestCalcularPropina:

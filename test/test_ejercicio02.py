@@ -12,7 +12,7 @@ Fecha: 2025-10-25
 """
 
 import pytest
-from src.ejercicio02 import clasificar_temperatura
+from ejercicio02 import clasificar_temperatura
 
 
 class TestClasificarTemperatura:

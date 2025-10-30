@@ -12,7 +12,7 @@ Fecha: 2025-10-25
 """
 
 import pytest
-from src.ejercicio03 import contar_digitos_pares_impares
+from ejercicio03 import contar_digitos_pares_impares
 
 
 class TestContarDigitosParesImpares:
